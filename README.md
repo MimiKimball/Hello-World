@@ -1,4 +1,6 @@
 # Hello-World
-This is the hello-world from the GitHub guide.
 
-Adding the last line of this readme. 
+
+I'm changing the entire readme file here. 
+Notice that I deleted the other text and put this stuff here. 
+
